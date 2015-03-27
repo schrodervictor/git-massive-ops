@@ -1,6 +1,8 @@
 #!/bin/bash
 
 REPO_BASE_URL="ssh://git@stash.your-company.com:7999/"
+# REPO_BASE_URL="git@github.com:"
+# REPO_BASE_URL="git@bitbucket.org:"
 
 clone_repo() {
 
